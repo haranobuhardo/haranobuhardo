@@ -13,6 +13,6 @@
   - [React Apps](https://haranobuhardo.github.io/)
   - [Python for Finance](https://haranobuhardo.github.io/)
   
- [![Hardo's github stats](https://github-readme-stats.vercel.app/api?username=haranobuhardos&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ [![Hardo's github stats](https://github-readme-stats.vercel.app/api?username=haranobuhardo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haranobuhardo)](https://github.com/anuraghazra/github-readme-stats)
